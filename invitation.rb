@@ -9,4 +9,5 @@ puts "What date is it?"
 date = gets.chomp
 puts "What time is it?"
 time = gets.chomp
-puts " "
+puts "Whats the hosts name? "
+host_name = gets.chomp
