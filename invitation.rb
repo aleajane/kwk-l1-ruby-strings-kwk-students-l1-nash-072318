@@ -11,3 +11,6 @@ puts "What time is it?"
 time = gets.chomp
 puts "Whats the hosts name? "
 host_name = gets.chomp
+puts "Dear #{guest_name}" 
+puts "You are cordially invited to the #{party_name}"
+puts "on #{date} at #{time}"
