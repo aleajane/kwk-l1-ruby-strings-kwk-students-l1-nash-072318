@@ -1,2 +1,2 @@
-puts "what is your name?"
-guest_name = get.chomp 
+puts "what is your name?
+name = get.chomp 
