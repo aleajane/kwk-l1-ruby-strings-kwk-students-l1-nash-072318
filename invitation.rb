@@ -14,3 +14,5 @@ host_name = gets.chomp
 puts "Dear #{guest_name}" 
 puts "You are cordially invited to the #{party_name}"
 puts "on #{date} at #{time}"
+puts "please RSVP no later than October 30."
+puts "sincerely, #{host_name}"
